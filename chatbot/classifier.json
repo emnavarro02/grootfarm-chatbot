@@ -1,0 +1,121 @@
+{
+	"classifier": {
+		"classFeatures": {
+			"moisture": {
+				"0": 2,
+				"1": 2,
+				"2": 2,
+				"3": 2,
+				"4": 2,
+				"5": 2,
+				"6": 2,
+				"7": 2,
+				"8": 2,
+				"9": 2
+			},
+			"greetings": {
+				"10": 2,
+				"11": 2,
+				"12": 2,
+				"13": 2,
+				"14": 2,
+				"15": 2,
+				"16": 2,
+				"17": 2,
+				"18": 2,
+				"19": 2,
+				"20": 2
+			},
+			"temperature": {
+				"21": 2,
+				"22": 2,
+				"23": 2,
+				"24": 2,
+				"25": 2,
+				"26": 2,
+				"27": 2,
+				"28": 2,
+				"29": 2,
+				"30": 2,
+				"31": 2,
+				"32": 2,
+				"33": 2,
+				"34": 2,
+				"35": 2,
+				"36": 2,
+				"37": 2,
+				"38": 2
+			}
+		},
+		"classTotals": {
+			"moisture": 2,
+			"greetings": 2,
+			"temperature": 2
+		},
+		"totalExamples": 4,
+		"smoothing": 1
+	},
+	"docs": [{
+		"label": "moisture",
+		"text": ["thirsty", "dehydrated", "humidity", "moisture", "dehumidify", "evaporate", "water", "dry out", "dry", "hunger"]
+	}, {
+		"label": "greetings",
+		"text": ["hello", "how are you", "what is up", "greetings", "hi", "salute", "ciao", "howdy", "hey", "howdy-do", "welcome"]
+	}, {
+		"label": "temperature",
+		"text": ["cold", "frozen", "ice", "gelid", "polar", "winter", "frosty", "snowy", "icy", "freezing", "thermal", "thermic", "heat", "warm", "hot", "heated", "temperature", "sunny"]
+	}],
+	"features": {
+		"thirsty": 1,
+		"dehydrated": 1,
+		"humidity": 1,
+		"moisture": 1,
+		"dehumidify": 1,
+		"evaporate": 1,
+		"water": 1,
+		"dry out": 1,
+		"dry": 1,
+		"hunger": 1,
+		"hello": 1,
+		"how are you": 1,
+		"what is up": 1,
+		"greetings": 1,
+		"hi": 1,
+		"salute": 1,
+		"ciao": 1,
+		"howdy": 1,
+		"hey": 1,
+		"howdy-do": 1,
+		"welcome": 1,
+		"cold": 1,
+		"frozen": 1,
+		"ice": 1,
+		"gelid": 1,
+		"polar": 1,
+		"winter": 1,
+		"frosy": 1,
+		"snowy": 1,
+		"icy": 1,
+		"freezing": 1,
+		"thermal": 1,
+		"thermic": 1,
+		"heat": 1,
+		"warm": 1,
+		"hot": 1,
+		"heated": 1,
+		"temperature": 1,
+		"sunny": 1
+	},
+	"stemmer": {},
+	"lastAdded": 3,
+	"events": {
+		"domain": {
+			"domain": null,
+			"_events": {},
+			"_eventsCount": 3,
+			"members": []
+		},
+		"_events": {},
+		"_eventsCount": 0
+	}
+}

@@ -1,0 +1,135 @@
+{
+    "temperature": {
+        "good": {
+            "good": {
+                "answer": [
+                    "My temperature is good.",
+                    "My temperature is fine.",
+                    "My temperature is okay.",
+                    "My temperature is ok.",
+                    "My temperature is well.",
+                    "My temperature is great."
+                ]
+            }
+        },
+        "warn": {
+            "higher": {
+                "answer": [
+                    "The temperature is a bit high.",
+                    "The temperature is a little high.",
+                    "The temperature is somewhat high.",
+                    "The temperature is a bit of high.",
+                    "Could you open an Window, please? It is a bit too hot here, isn't it?",
+                    "It is a bit too warm here."
+                ]
+            },
+            "lower": {
+                "answer": [
+                    "The temperature is a bit low.",
+                    "The temperature is a little low.",
+                    "The temperature is somewhat low.",
+                    "The temperature is a bit of low.",
+                    "It is a bit too cold here, isn't it?",
+                    "Could you close the window, please? It is a little bit cold here.",
+                    "It is a bit too chilly here."
+                ]
+            }
+        },
+        "dire": {
+            "higher": {
+                "answer": [
+                    "The temperature is very high.",
+                    "The temperature is a lot high.",
+                    "The temperature is extremely high.",
+                    "The temperature is very much high.",
+                    "The temperature is a lot of high.",
+                    "The temperature is extremely of high.",
+                    "It is very hot here, isn't it?",
+                    "It is very warm here."
+                ]
+            },
+            "lower": {
+                "answer": [
+                    "The temperature is very low.",
+                    "The temperature is a lot low.",
+                    "The temperature is extremely low.",
+                    "The temperature is very much low.",
+                    "It is very cold here, isn't it?",
+                    "It is very chilly here."
+                ]
+            }
+        }
+    },
+    "moisture": {
+        "good": {
+            "good": {
+                "answer": [
+                    "My moisture is good.",
+                    "My moisture is fine.",
+                    "My moisture is okay.",
+                    "My moisture is ok.",
+                    "My moisture is well.",
+                    "My moisture is great."
+                ]
+            }
+        },
+        "warn": {
+            "higher": {
+                "answer": [
+                    "The humidity is a bit high.",
+                    "The humidity is a little high.",
+                    "The humidity is somewhat high.",
+                    "The humidity is a bit of high.",
+                    "No more water for now, please. The humidity is a bit high."
+                ]
+            },
+            "lower": {
+                "answer": [
+                    "The humidity is a bit low.",
+                    "The humidity is a little low.",
+                    "The humidity is somewhat low.",
+                    "The humidity is a bit of low."
+                ]
+            }
+        },
+        "dire": {
+            "higher": {
+                "answer": [
+                    "The humidity is very high.",
+                    "The humidity is a lot high.",
+                    "The humidity is extremely high.",
+                    "The humidity is very much high.",
+                    "The humidity is a lot of high.",
+                    "The humidity is extremely of high.",
+                    "No more water for now, please. The humidity is a very high.",
+                    "I'm drowning here, please stop watering me."
+                ]
+            },
+            "lower": {
+                "answer": [
+                    "The humidity is very low.",
+                    "The humidity is a lot low.",
+                    "The humidity is extremely low.",
+                    "The humidity is very much low.",
+                    "You know what would be good? A little bit more water.",
+                    "I'm thirsty, please water me."
+                ]
+            }
+        }
+    },
+    "greetings": {
+        "answer": [
+            "Hello!",
+            "Hi!",
+            "Hey, ho...",
+            "Greetings, fellow human."
+        ]
+    },
+    "default": {
+        "answer": [
+            "I'm sorry, I don't understand.",
+            "I don't understand.",
+            "I'm a plant and still learning. I don't understand."
+        ]
+    }
+}
