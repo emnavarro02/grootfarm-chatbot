@@ -6,13 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
-## 1.0.1
+## 1.1.1 - 2024-06-24
 
-**FIXED**
-*  Express.js Open Redirect in malformed URLs ([#1](https://github.com/emnavarro02/blue-saturn-cake/security/dependabot/1)).
+**ADDED**
+* Changelog and contributing guidelines
+
+**CHANGED**
+* Split the chatbot into a new project.
+
 ---
 
 ## 1.0.0
 
 **ADDED**
-* Initial release - Creates a coordinator node with a mosquitto MQTT broker and a python subscriber.
+* Initial release
